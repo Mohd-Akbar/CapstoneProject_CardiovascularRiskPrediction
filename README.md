@@ -1,4 +1,4 @@
-# CapstoneProject_CardiovascularRiskPrediction
+# # Project - Cardiovascular Risk Prediction(Supervised)
 In the Cardiovascular Risk Prediction project, a dataset comprising information on 3,390 individuals, encompassing 16 predictor variables, and a target variable. The goal was to predict the 10-year risk of developing coronary heart disease (CHD). Here's a concise summary of our workflow:
 
 Data Preprocessing: Began by cleaning the data, handling missing values, and ensuring data types were appropriate for visualization.
